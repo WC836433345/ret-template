@@ -1,3 +1,4 @@
 #windows
 dist
 node_modules
+src/publicComponents
