@@ -1,0 +1,30 @@
+{
+  "id": "1507887",
+  "name": "扫码借",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1833855",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "1365848",
+      "name": "通过",
+      "font_class": "tongguo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "9512489",
+      "name": "右箭头",
+      "font_class": "arrowRight",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
